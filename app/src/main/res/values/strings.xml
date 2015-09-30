@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WishAlert</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_event">Add</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="date">Date</string>
+    <string name="prompt_type">Choose event type...</string>
+    <string-array name="type_array">
+        <item>Birthday</item>
+        <item>Anniversary</item>
+    </string-array>
+    <string name="save">Save</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm_date">Alarm Date</string>
+    <string name="alarm_time">Alarm Time</string>
+    <string name="title_activity_edit_event">Edit</string>
+    <string name="message">Message</string>
+    <string name="sms">SMS</string>
+
+
+</resources>
